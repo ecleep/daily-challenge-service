@@ -260,19 +260,6 @@ Rules:
 
 ---
 
-## Dependencies
-
-* Flask
-* SQLite (built-in with Python)
-
-Install:
-
-```bash
-pip install Flask
-```
-
----
-
 ## Future Improvements
 
 * Replace SQLite with an actual database for scaling
