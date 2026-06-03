@@ -1,0 +1,22 @@
+{
+  "categories": {
+    "study": [
+      "Solve 5 algebra problems",
+      "Read 10 pages of a textbook",
+      "Summarize one lecture",
+      "Complete a coding exercise"
+    ],
+    "fitness": [
+      "Run 2 kilometers",
+      "Do 20 push-ups",
+      "Stretch for 15 minutes",
+      "Complete a 10-minute workout"
+    ],
+    "general": [
+      "Organize your workspace",
+      "Write a short reflection",
+      "Learn one new concept",
+      "Practice mindfulness for 10 minutes"
+    ]
+  }
+}
